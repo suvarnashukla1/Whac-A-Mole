@@ -1,2 +1,2 @@
 # Whac-A-Mole
-a game made with HTML,CSS And JavaScript
+A game made with HTML,CSS And JavaScript
