@@ -1,34 +1,32 @@
-# 🛠️ Whac-A-Mole 🎯 (React)
+# 🎯 Whac-A-Mole Game
 
-A responsive, fast-paced **Whac-A-Mole game** built with **React.js**!  
-Smack the moles as they pop up and rack up your high score — works seamlessly across all devices 🖥️📱.
+A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScript**. This project is fully responsive and works smoothly across all devices — desktop, tablet, or mobile!
 
 ## 🚀 Features
 
-- ⚛️ Built with React (Vite)
-- 🕹️ Classic arcade-style mole whacking gameplay
-- 🔁 Dynamic mole appearance & timed challenge
-- 📱 Fully responsive — works on desktop, tablet, and mobile
-- 🎨 Smooth animations and intuitive UI
-- 💯 Score tracking with real-time updates
+- 🕹️ Classic whac-a-mole gameplay
+- 📱 Fully responsive design for all screen sizes
+- ⏱️ Countdown timer and scoring system
+- 🔁 Replayability with reset and replay options
+- 🎨 Simple and clean UI with animations
 
-## 📸 Demo
+## 🛠️ Tech Stack
 
-![Whac-A-Mole Demo](https://your-demo-gif-or-image-link-here)
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
 
-## 🧱 Tech Stack
+## 📷 Screenshots
 
-- ReactJS
-- CSS / Tailwind (optional)
-- Responsive Design Principles
-- Vite (for fast development)
+> *(Add screenshots or screen recordings of the game here)*
 
-## 📦 Installation
+## 📁 Folder Structure
 
-Clone the repo and get started:
+
+## 🔧 How to Run Locally
+
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/whac-a-mole-react.git
-cd whac-a-mole-react
-npm install
-npm run dev
+git clone https://github.com/your-username/whac-a-mole.git
+cd whac-a-mole
