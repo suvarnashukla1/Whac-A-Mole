@@ -16,9 +16,6 @@ A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScri
 - **CSS3**
 - **Vanilla JavaScript**
 
-## 📷 Screenshots
-
-> *(Add screenshots or screen recordings of the game here)*
 
 ## 📁 Folder Structure
 
