@@ -17,13 +17,11 @@ A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScri
 - **Vanilla JavaScript**
 
 
-## 📁 Folder Structure
-
 
 ## 🔧 How to Run Locally
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/whac-a-mole.git
-cd whac-a-mole
+   ```bash
+   git clone https://github.com/suvarnashukla1/Whac-A-Mole.git
+
