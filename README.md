@@ -6,7 +6,7 @@ A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScri
 
 - 🕹️ Classic whac-a-mole gameplay
 - 📱 Fully responsive design for all screen sizes
-- 🔁 Replayability with reset and replay options
+- 🔁 Replayability with reset and replay options and score counting.
 - 🎨 Simple and clean UI with animations
 
 ## 🛠️ Tech Stack
