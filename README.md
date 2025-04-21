@@ -11,7 +11,7 @@ A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScri
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
+- **HTML**
 - **CSS**
 - **JavaScript**
 
