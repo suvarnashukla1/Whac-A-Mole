@@ -2,7 +2,7 @@
 
 A fun and interactive **Whac-A-Mole** game built using **HTML, CSS, and JavaScript**. This project is fully responsive and works smoothly across all devices — desktop, tablet, or mobile!
 
-## 🚀 Features
+##  Features
 
 - 🕹️ Classic whac-a-mole gameplay with timer
 - 📱 Fully responsive design for all screen sizes
